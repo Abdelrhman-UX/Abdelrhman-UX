@@ -1,6 +1,5 @@
-
 <div align="center">
-  <img height="155" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 ###
@@ -13,11 +12,11 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Welcome to my personal page</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h1 align="left">👩‍💻</h1>
 
 ###
 
@@ -52,5 +51,9 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<p align="left">Hello World!!</p>
 
 ###
