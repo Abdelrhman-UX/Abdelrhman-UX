@@ -2,10 +2,10 @@
 <h3 align="center">Flutter Developer 📱 | Data Analyst 📊 | CS Student @ El Shorouk Academy 🎓</h3>
 
 <p align="center">
-  <a href="https://instagram.com/your-instagram" target="_blank">
+  <a href="https://instagram.com/3bdrhman.ll" target="_blank">
     <img src="https://img.shields.io/badge/@abdelrahman.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://linkedin.com/in/abdelrhman-fathy-2b6234369" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Abdelrahman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
