@@ -28,7 +28,7 @@ class AbdelrahmanFathi {
 
 ---
 
-## 🧰 صندوق أدوات التكنولوجيا
+## 🧰 Tech Toolbox  
 
 <p align="center">
  <p align="center">
